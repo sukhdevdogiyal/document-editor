@@ -97,10 +97,15 @@ npm start
 Real-time collaboration and autosave to database
 ![Real time collaborative Document Editor Screenshot](screenshots/preview.png)
 
-## 📦 Deployment (Optional)
+## 📦 Deployment 
 You can deploy:
 - Frontend: Vercel / Netlify
 - Backend: Render / Railway
 - MongoDB: MongoDB Atlas
+
+
+## 📝 License
+Free to use and modify for learning purposes.  
+Created for internship practice 🚀  
 
 
